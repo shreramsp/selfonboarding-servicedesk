@@ -8,3 +8,6 @@ runs/*
 __pycache__/
 .idea/
 .vscode/
+
+# local run for this project, kept out of upstream pushes
+!runs/self-onboarding-desk/
